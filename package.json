@@ -1,0 +1,7 @@
+{
+  "name": "inclusivelearn-africa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline-ready inclusive learning prototype for African classrooms.",
+  "scripts": { "start": "node server.js", "dev": "node server.js" }
+}

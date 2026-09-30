@@ -1,0 +1,10 @@
+{
+  "name": "InclusiveLearn Africa",
+  "short_name": "InclusiveLearn",
+  "description": "Accessible learning for every learner, online and offline.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f7f2",
+  "theme_color": "#f4f7f2",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
